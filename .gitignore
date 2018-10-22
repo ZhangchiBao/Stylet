@@ -39,3 +39,13 @@ installer/Output
 *.gjq
 *.tmp
 Coverage
+/Samples/.vs/Stylet.Samples/v15/Server/sqlite3/storage.ide-wal
+/Samples/.vs/Stylet.Samples/v15/Server/sqlite3/storage.ide-shm
+/Samples/.vs/Stylet.Samples/v15/Server/sqlite3/storage.ide
+/Samples/.vs/Stylet.Samples/v15/Server/sqlite3/db.lock
+/Samples/.vs/Stylet.Samples/DesignTimeBuild/.dtbcache
+/.vs/Stylet/v15/Server/sqlite3/storage.ide-wal
+/.vs/Stylet/v15/Server/sqlite3/storage.ide-shm
+/.vs/Stylet/v15/Server/sqlite3/storage.ide
+/.vs/Stylet/v15/Server/sqlite3/db.lock
+/.vs/Stylet/DesignTimeBuild/.dtbcache
