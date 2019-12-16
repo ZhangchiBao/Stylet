@@ -51,7 +51,7 @@ namespace Stylet
             var viewManagerConfig = new ViewManagerConfig()
             {
                 ViewFactory = this.GetInstance,
-                ViewAssemblies = new List<Assembly>() { this.GetType().Assembly }
+                ViewAssemblies = builder.Assemblies//new List<Assembly>() { this.GetType().Assembly }
             };
             builder.Bind<ViewManagerConfig>().ToInstance(viewManagerConfig).AsWeakBinding();
 
